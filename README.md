@@ -1,9 +1,7 @@
 <!-- Header Banner / Greeting -->
 <h1 align="center">Hi 👋, I'm Aditya Kumar Prasad</h1>
-<h3 align="center">🚀 Backend Developer || Fullstack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  💬 Ask me about <b>Node.js, Express, Java, Databases</b> <br>
   📫 Reach me at: <a href="mailto:adityaprasad1828@gmail.com">adityaprasad1828@gmail.com</a>
 </p>
 
@@ -56,10 +54,3 @@
 - 🌱 Learning **Cloud Computing & Kubernetes**
 - 🎯 2025 Goal: **Contribute to more open-source projects**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
-
----
-
-<!-- Footer Quote -->
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>

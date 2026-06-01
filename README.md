@@ -46,11 +46,3 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
-<!-- Fun Dynamic Section -->
-## ✨ Fun Facts
-- 🔭 I’m currently working on **scalable backend services**
-- 🌱 Learning **Cloud Computing & Kubernetes**
-- 🎯 2025 Goal: **Contribute to more open-source projects**
-- ⚡ Fun fact: **I debug faster with coffee ☕**
